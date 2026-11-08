@@ -1,0 +1,10 @@
+# Кеш Python
+__pycache__/
+*.py[cod]
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Служебные файлы macOS
+.DS_Store
